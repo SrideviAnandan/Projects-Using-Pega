@@ -22,3 +22,10 @@ They have decided to build an application that will:
 	Do a de-duplication check with external system and reject the quotation if already present.
 	Issue a new business policy once user accepts terms and conditions.
 	Allow user to do the payment. Send policy details to user once the payment is successfully completed.  
+**FastestLaundry** is a startup company, launched in the
+beginning of this year. It offers premium Laundry services using a Mobile in the
+Hyderabad region. The firm offers an affordable laundry service with door to door
+pickup and delivery. The services include Washing, Ironing, Starching, Dry Cleaning,
+and Darning. They also offer Express FastestLaundry Service at a time slot chosen by
+the customer with a turnaround delivery time of 12 hrs with limited services. They
+also offer to track the status of your laundry.
